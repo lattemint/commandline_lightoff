@@ -1,5 +1,5 @@
 # commandline_lightoff
-To those who want to play light off under command line (on linux!)
+For those who want to play light off under command line (on linux!)
 
 TODO list:
 
