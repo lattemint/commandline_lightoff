@@ -92,7 +92,7 @@ void charte::shell(){
     } else if (ins == "touch" || ins == "t") {
       std::cout << "touch anyone, in x y" << '\n';
       std::cout << "x y: ";
-      std::cin >> x >> y;
+      std::cin >> y >> x;
       if (range(x,y)) {
         touch(x,y);
       } else {
